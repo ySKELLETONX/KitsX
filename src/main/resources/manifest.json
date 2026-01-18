@@ -1,0 +1,7 @@
+{
+  "Group": "me.skelletonx.br",
+  "Name": "KitsX",
+  "Version": "1.0.0",
+  "Main": "me.skelletonx.br.Main",
+  "IncludesAssetPack": true
+}
